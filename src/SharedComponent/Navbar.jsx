@@ -6,7 +6,7 @@ import { RxAvatar } from 'react-icons/rx';
 
 const Navbar = () => {
   return (
-    <div className=' fixed py-3 border-b-2 border-red-500 w-11/12  bg-white z-10 shadow-sm'>
+    <div className=' fixed py-3 border-b-2 border-gray-200 w-11/12  bg-white z-10 shadow-sm'>
       {/** logo part */}
       <div className='flex flex-row justify-between items-center '>
         <div class="hidden md:flex items-center">
